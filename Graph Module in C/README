@@ -1,5 +1,7 @@
 Brief description of submitted files:
 
+**A link to full specifications for this program are found: https://classes.soe.ucsc.edu/cmps101/Fall18/pa5.pdf**
+
 findComponents.c
 - A client that will find all the connected components of Graph G by running DFS(G) twice using Graph ADT dependent on List ADT
 
