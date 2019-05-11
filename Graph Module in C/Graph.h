@@ -1,6 +1,4 @@
-//Susanna Morin
 //sumorin
-//pa4
 
 
 #ifndef GRAPH_H_INCLUDED
