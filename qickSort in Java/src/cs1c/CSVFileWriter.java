@@ -1,3 +1,5 @@
+//Author:sumorin
+
 package cs1c;
 
 import java.io.FileWriter;
