@@ -1,4 +1,4 @@
-project folder: ifsus-thenjpg-cs1c-project08/
+
 
 Brief description of submitted files:
 
