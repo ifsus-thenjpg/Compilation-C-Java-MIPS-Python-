@@ -1,6 +1,4 @@
-//Susanna Morin
 //sumorin
-//pa5
 
 #include<stdio.h>
 #include<stdlib.h>
