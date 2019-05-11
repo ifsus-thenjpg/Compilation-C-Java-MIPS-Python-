@@ -1,4 +1,4 @@
-**project folder:** ifsus-thenjpg-cs1c-project03/
+
 
 *Brief description of submitted files:*
 
