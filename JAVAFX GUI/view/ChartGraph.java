@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 /**
  * Instantiates an JavaFX application which creates a GraphPane(BorderPane).
  * Sets up the scene with basic modification to the stage.
- * @author Foothill College, Bita M., Team 8
+ * @author Foothill College, Bita M., Susanna Morin, Yuliia Trubchyk, Victoria Belvetlace
  */
 public class ChartGraph extends Application
 {
