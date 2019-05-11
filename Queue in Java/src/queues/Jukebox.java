@@ -1,3 +1,5 @@
+//Author:sumorin
+
 package queues;
 
 import cs1c.SongEntry;
