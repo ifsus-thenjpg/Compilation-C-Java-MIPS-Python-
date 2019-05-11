@@ -1,3 +1,5 @@
+//Author: sumorin
+
 package stacks;
 
 import java.util.EmptyStackException;
