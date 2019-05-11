@@ -1,0 +1,8 @@
+favorites,Get Your Freak On
+lounge,Como La Flor
+favorites,Stoned
+road trip,Get Happy
+road trip,Let's Dance
+road trip,Oh What a Feeling
+lounge,Traffic
+
