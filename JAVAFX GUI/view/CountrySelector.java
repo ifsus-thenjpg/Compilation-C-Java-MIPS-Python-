@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Class CountrySelector represents a list of selected countries selected by user.
- * @author Foothill College, Bita M., Team 8
+ * @author Foothill College, Bita M., Susanna Morin, Yuliia Trubchyk, Victoria Belvetlace
  */
 public class CountrySelector 
 {
