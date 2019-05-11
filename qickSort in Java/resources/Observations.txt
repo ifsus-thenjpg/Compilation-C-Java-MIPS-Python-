@@ -1,0 +1,10 @@
+Total Running time for program: ~7hrs (had to leave computer running overnight)
+This could be due to my laptop having 8GB RAM and Intel Core i5 @ 2.3GHz. (not high performance)
+I noticed that the optimal performance range was between recursion limit set between 2-12 (reference zoom_annotated.png)
+We can see spikes of performance time around 12-16 and again 40-48 again, but performance time is still below 5B ns (reference zoom_nonannotated.png)
+After recursion limit set to 50 we see a gradual increase in performance time that almost doubles to 10B ns (reference graph_annotated.png)
+
+Big Oh on QS Algorithm:
+Worst Case: O(N^2)
+Best Case: theta(NlogN)
+Average Case: omega(NlogN)
