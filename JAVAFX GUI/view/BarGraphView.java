@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 	Class BarGraphView represents a data series for each Country object as a bar graph.
- * 	@author Foothill College, Bita M., Team 8
+ * 	@author Foothill College, Bita M., Susanna Morin, Yuliia Trubchyk, Victoria Belvetlace
  */
 public class BarGraphView extends BarChart<String, Number>{
 
