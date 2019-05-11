@@ -23,7 +23,7 @@ import java.util.List;
 
 /**
  * Class GraphPane represents the BorderPane with top and left menus and center to graph data.
- * @author Foothill College, Bita M., Team 8.
+ * @author Foothill College, Bita M., Susanna Morin, Yuliia Trubchyk, Victoria Belvetlace.
  */
 public class GraphPane extends BorderPane {
 
