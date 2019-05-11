@@ -1,4 +1,4 @@
-#sumorin
+//sumorin
 
 #include<stdio.h>
 #include<stdlib.h>
