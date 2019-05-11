@@ -11,7 +11,7 @@ package view;
 
 /**
  * 	Class LineGraphView represents a data series for each Country object as a line graph.
- * 	@author Foothill College, Bita M., Team 8
+ * 	@author Foothill College, Bita M., Susanna Morin, Yuliia Trubchyk, Victoria Belvetlace
  */
 public class LineGraphView extends LineChart<Number,Number> {
     private DataModel model;    //Instance variable called model of type DataModel, which provide access to our CSV data.
