@@ -1,6 +1,5 @@
-//Susanna Morin
 //sumorin
-//pa4
+
 #ifndef LIST_H
 #define LIST_H
 
