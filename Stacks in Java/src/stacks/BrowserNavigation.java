@@ -9,7 +9,7 @@ import java.util.Scanner;
  * Simulates a browser's back and forward buttons by recording links that are visited
  * and then keeping a stack of "back" links and a stack of "forward" links.
  *
- * @author Foothill College, Bita M, [YOUR NAME HERE]
+ * @author Foothill College, Bita M, Susanna Morin 
  */
 public class BrowserNavigation 
 {
