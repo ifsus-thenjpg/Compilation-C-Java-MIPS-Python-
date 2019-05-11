@@ -1,0 +1,62 @@
+.chart-bar {
+    -fx-background-color: rgba(0,168,355,0.05);
+    -fx-border-color: rgba(0,168,355,0.3) rgba(0,168,355,0.3)
+        transparent rgba(0,168,355,0.3);
+    -fx-background-radius: 0;
+    -fx-background-position: left center;
+}
+
+
+.data0.chart-bar {
+    -fx-background-color: #E74C3C;
+}
+.data1.chart-bar {
+    -fx-background-color: #A569BD;
+}
+.data2.chart-bar {
+    -fx-background-color: #3498DB;
+}
+.data3.chart-bar {
+    -fx-background-color: #16A085;
+}
+.data4.chart-bar {
+    -fx-background-color: #F39C12;
+}
+.data5.chart-bar {
+    -fx-background-color: #797D7F;
+}
+.data6.chart-bar {
+    -fx-background-color: #512E5F;
+}
+.data7.chart-bar {
+    -fx-background-color: #212F3D;
+}
+.data8.chart-bar {
+    -fx-background-color: #DC7633;
+}
+.data9.chart-bar {
+    -fx-background-color: #196F3D;
+}
+.data10.chart-bar {
+    -fx-background-color: #76D7C4;
+}
+.data11.chart-bar {
+    -fx-background-color: #E74C3C;
+}
+
+
+.data0.chart-bar.onHover{
+    -fx-background-color: gray;
+}
+.data1.chart-bar.onHover{
+    -fx-background-color: gray;
+}
+.data2.chart-bar.onHover{
+    -fx-background-color: gray;
+}
+.data3.chart-bar.onHover{
+    -fx-background-color: gray;
+}
+.data4.chart-bar.onHover{
+    -fx-background-color: gray;
+}
